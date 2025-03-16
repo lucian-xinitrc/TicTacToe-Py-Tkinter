@@ -6,7 +6,7 @@ This script, built with Python and the tkinter library, implements a simple 1 vs
 ## $ languages used
 The website was built using the following technologies:
 
-![py, Vim](https://skillicons.dev/icons?i=py,vim)
+![py, Sublime](https://skillicons.dev/icons?i=py,sublime)
 
 
 ## $ license
